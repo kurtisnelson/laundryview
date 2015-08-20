@@ -1,5 +1,4 @@
 require "laundryview/version"
-
+require "laundryview/main"
 module Laundryview
-  # Your code goes here...
 end
